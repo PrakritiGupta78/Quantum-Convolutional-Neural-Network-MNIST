@@ -96,7 +96,7 @@ All quantum parameters are optimized using TensorFlow's automatic differentiatio
 - Original Image Size: 28×28
 - Resized Image Size: 8×8
 - Patch Size: 4×4
-- Number of Qubits: 4
+- Number of Qubits: 3
 
 ---
 
