@@ -126,8 +126,6 @@ QCNN-MNIST-10Class/
     ├── architecture.png
     ├── accuracy.png
     ├── loss.png
-    ├── confusion_matrix.png
-    └── predictions.png
 ```
 
 ---
